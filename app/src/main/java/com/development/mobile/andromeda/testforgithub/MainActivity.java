@@ -13,10 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         String Hello = "Wrol!Rghihwg";
         String Hello1;
-
-        String HELLO;
-        String HELLO1;
         String kuku;
         String HEEELELHSKSGKSGJsGK;
+        String kaka;
     }
 }
