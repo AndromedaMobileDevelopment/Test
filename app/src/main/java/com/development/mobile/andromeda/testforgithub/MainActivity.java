@@ -10,11 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-        String Hello = "Wrol!Rghihwg";
-        String Hello1;
-        String kuku;
-        String HEEELELHSKSGKSGJsGK;
-        String kaka;
+        String Hello;
     }
 }
