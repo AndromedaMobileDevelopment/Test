@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
     int loh;
         int dcp;
         boolean ygh;
+        int gg;
     }
 }
