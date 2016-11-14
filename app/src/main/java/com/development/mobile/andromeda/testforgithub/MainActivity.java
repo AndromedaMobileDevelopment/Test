@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         int i;
         String k;
         String he;
+        int gggg;
     int loh;
     }
 }
