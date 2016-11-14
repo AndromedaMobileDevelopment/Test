@@ -9,13 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        int i;
-        String k;
-        String he;
-        int gggg;
-    int loh;
-        int dcp;
-        boolean ygh;
-        int gg;
+        int lal;
     }
 }
