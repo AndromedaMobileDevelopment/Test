@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         String Hello;
 
-        String Hello = "Wrol!Rghihwg";
+        String WrolRghihwg;
         String Hello1;
         String kuku;
         String kaka;
