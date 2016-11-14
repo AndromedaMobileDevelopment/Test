@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         int i;
         String k;
         int dcp;
-
+        boolean ygh;
     }
 }
