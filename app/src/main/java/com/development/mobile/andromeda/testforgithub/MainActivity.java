@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         String Hello1;
         String kuku;
         String kaka;
+        String kakakuku;
     }
 }
